@@ -1,3 +1,22 @@
 Creating folder named react_native_jobs and opened via vscode then;
 https://expo.github.io/router/docs/ --> Creating Project ;
 npx create-expo-app@latest --example with-router ./
+
+https://docs.expo.dev/routing/layouts/
+
+npm install expo-font axios react-native-dotenv
+
+npm start
+
+Cannot find module 'lodash'
+
+npm i lodash
+
+you can go to web is waiting on http://localhost:xxxx
+or you can install expo go and then the qr code than in terminal will 
+open our app in our mobile phone 
+
+if we have any problem to run the app in mobile phone ;
+npm install -g expo-cli
+and then start app with this command;
+expo-cli start  --tunnel
