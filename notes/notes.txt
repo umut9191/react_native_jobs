@@ -1,1 +1,3 @@
-https://expo.github.io/router/docs/ -->
+Creating folder named react_native_jobs and opened via vscode then;
+https://expo.github.io/router/docs/ --> Creating Project ;
+npx create-expo-app@latest --example with-router ./
